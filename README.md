@@ -9,10 +9,7 @@ A simple imperial/metric unit converter, that converts meters to feet, litres to
   - [Links](#links)
 - [Process](#process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned) --> opciono
-  - [Useful resources](#useful-resources) --> opciono
 - [Author](#author)
-- [Acknowledgments](#acknowledgments) --> opciono
 
 ## Overview
 
@@ -25,7 +22,7 @@ Users are allowed to enter the number in the input field, and by clicking enter,
 
 ### Links
 
-- Live Site URL: [Unit converter](https://jelenkoo10.github.io/unit_converter)
+- Live Site URL: [Unit converter](https://jelenkoo10.github.io/unit_converter/)
 
 
 ## Process
